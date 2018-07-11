@@ -1,0 +1,42 @@
+.container {
+    width: 1000px;
+    background: black;
+    margin: auto;
+}
+body{
+  background: black;
+}
+.menu {
+  float: right;
+  padding-top: 20px;
+}
+.menu li{
+    display: inline-block;
+
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+.menu a:hover{
+    background: #A3001E;
+
+}
+.descriccion h2{
+  color: white;
+  padding: 10px;
+
+}
+.descriccion h3{
+  color: white;
+  padding: 10px;
+}
+.descriccion p{
+  color: white;
+  padding: 10px;
+
+}
+.footer {
+    overflow: hidden;
+}
